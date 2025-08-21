@@ -57,17 +57,36 @@
     "conclusion": "neutral"
   },
   {
-    "sha": "HEAD",
+    "sha": "d3abbdb4dc89f46e89be0dc1f1f2b6d0fefb5545",
     "author": "Juan Pablo",
     "commit": {
       "date": "2025-08-21T13:46:29.000Z",
       "message": "feat: Saluda por genero",
-      "url": "https://github.com/Jpriveram/Bot-saludador-2025/commit/HEAD"
+      "url": "https://github.com/Jpriveram/Bot-saludador-2025/commit/d3abbdb4dc89f46e89be0dc1f1f2b6d0fefb5545"
     },
     "stats": {
       "total": 19,
       "additions": 14,
       "deletions": 5,
+      "date": "2025-08-21"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Juan Pablo",
+    "commit": {
+      "date": "2025-08-21T13:49:15.000Z",
+      "message": "feat: Saluda por edad",
+      "url": "https://github.com/Jpriveram/Bot-saludador-2025/commit/HEAD"
+    },
+    "stats": {
+      "total": 17,
+      "additions": 13,
+      "deletions": 4,
       "date": "2025-08-21"
     },
     "coverage": 0,
